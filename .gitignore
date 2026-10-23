@@ -1,0 +1,24 @@
+# Configuracion local
+config/config.json
+.env
+
+# Resultados generados
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+mapping/*
+!mapping/.gitkeep
+!mapping/tiendas_ejemplo.csv
+
+# Archivos de datos
+*.xlsx
+*.xls
+*.csv
+!mapping/tiendas_ejemplo.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/

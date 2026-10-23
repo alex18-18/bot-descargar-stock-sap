@@ -1,0 +1,18 @@
+{
+  "sap": {
+    "layout_variant": "VARIANTE_EJEMPLO",
+    "layout_owner": "DUENO_EJEMPLO",
+    "logon_path": "C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe",
+    "connection_names": [
+      "NOMBRE_CONEXION_SAP"
+    ]
+  },
+  "users": {
+    "TU_USUARIO_WINDOWS": {
+      "SAP": {
+        "USER": "TU_USUARIO_SAP",
+        "PASSWORD": "TU_CLAVE_SAP"
+      }
+    }
+  }
+}

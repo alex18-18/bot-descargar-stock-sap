@@ -1,0 +1,6 @@
+pandas
+numpy
+pyodbc
+pyperclip
+openpyxl
+pywin32
